@@ -9,3 +9,9 @@
 题目2：编写Java语言的HelloWorld
 
 答案位置：src/Main.java
+
+## 第二章
+
+题目1：定义学生、老师、教室3个类，并为3个类编写文档注释，并使用javadoc工具来生成API文档。
+
+答案位置：src/StuTeaCla
